@@ -1,6 +1,6 @@
-# ProjetoTesteJava
+# ProjetoJava
 
-Projeto de teste em Java para aprendizado e desenvolvimento.
+Projeto em Java para aprendizado e desenvolvimento.
 
 ## Descrição
 
